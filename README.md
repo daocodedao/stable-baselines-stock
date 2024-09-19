@@ -4,6 +4,7 @@
 
 https://github.com/wangshub/RL-Stock
 
+https://pythondict.com/quant/reinforcement-learnning/
 
 ### 修改的地方
 - [x] 支持 mac
